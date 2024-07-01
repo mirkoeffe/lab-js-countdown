@@ -10,7 +10,7 @@ const toastMessage = document.querySelector("#toast-message");
 
 // Your code goes here ...
 
-startButton = document.querySelector("#start-btn");
+const startButton = document.querySelector("#start-btn");
 
 
 startButton.addEventListener("click", () => {
